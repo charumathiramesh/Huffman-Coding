@@ -9,16 +9,16 @@ To implement Huffman coding to compress the data using Python.
 ### Step1:
 Get the input String.
 
-##Step2:
+## Step2:
 Create tree nodes.
 
-##Step3:
+## Step3:
 Main function to implement huffman coding
 
-##Step4:
+## Step4:
 Calculate frequency of occurrence.
 
-##Step5:
+## Step5:
 Print the characters and its huffmancode.
 
 
